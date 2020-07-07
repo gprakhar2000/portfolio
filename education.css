@@ -17,6 +17,7 @@ div div h2 {
 	border-bottom: 1px dashed white;
 }
 #PEC{
+	width: 8%;
 	float: left;
 	border-radius: 5px;
 }
