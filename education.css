@@ -1,0 +1,27 @@
+h1{
+	margin-bottom: 5%;
+}
+
+#educationPEC,#educationBBL{
+	margin-right: 1%;
+	margin-left: 2%;
+
+}
+#educationBBL{
+	margin-bottom: 10%;
+}
+
+div div h2 {
+	text-decoration: none;
+	font-variant-caps: small-caps;
+	border-bottom: 1px dashed white;
+}
+#PEC{
+	float: left;
+	border-radius: 5px;
+}
+#edudetails{
+	display: inline-block;
+	margin-left: 2%;
+	width: 80%;
+}

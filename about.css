@@ -1,0 +1,27 @@
+#about{
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+h1{
+	padding: 2% 0% 1% 2%;
+	color: rgba(255,255,255,1);
+	font-family: Merriweather;
+	border-bottom: 2px outset white;
+}
+i{
+	padding-left: 2%;
+}
+div p{
+	display: inline-block;
+	width: 70%;
+	text-align: justify;
+	padding-left:0%;
+	font-size: 150%;
+	font-family: "Lato";
+	font-weight: lighter;
+}
+#aboutdetail{
+	padding: 3% 3% 3% 0%;
+	text-align: center;
+}

@@ -1,0 +1,17 @@
+#VE{ 
+	width: 50%;
+	color: white;
+	line-height: 150%;
+	padding: 2% 2% 2% 0%;
+	border-bottom: 1px solid white;
+	margin:0% 0% 2% 2%; 
+	font-family:"Roboto Slab"; 
+}
+#NSS{
+	float: left;
+	margin-left: 3%;
+}
+h3{
+	color: white;
+	font-variant-caps: small-caps;
+}

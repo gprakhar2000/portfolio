@@ -1,0 +1,55 @@
+#accomplishment{
+	margin-right: 1%;
+	margin-left: 2%;
+}
+
+h1{
+	padding: 2% 0% 1% 2%;
+	color: rgba(255,255,255,1);
+	font-family: Merriweather;
+	border-bottom: 2px outset white;
+}
+i{
+	padding-left: 2%;
+}
+div div:not(:first-child){
+	display: inline-block;
+	width: 30%;
+	height:7.5em;
+	padding: 2%;
+	font-size: 120%;
+	font-family: "Lato";
+	font-weight: lighter;
+	color: rgba(255,255,255,1);
+	margin-left: 2%;
+	border-bottom: 1px dashed white;
+	border-right: 1px dashed white;
+	border-radius: 0.4em;
+}
+div div span{
+	border: 1px solid white;
+	border-radius: 0.5em;
+	padding: 2%;
+	line-height: 170%;
+
+}
+#testscore,#certis{
+	margin-left: 2%;
+	padding: 0.5%;
+	color: rgba(255,255,255,1);
+	border:1px outset white;    
+	border-radius: 0;
+	font-size: 150%;
+	font-variant-caps: small-caps;
+
+}
+#accompdetail{
+	padding: 3% 3% 3% 0%;
+	
+}
+#cert{
+	border: none;
+	height: 15em;
+	width: 40%;
+	float: left;
+}
