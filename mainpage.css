@@ -112,6 +112,21 @@ footer {
 	height: 7em;
 	margin-left: 2%;
 }
+#feedback{
+	float: right;
+	margin: 5%;
+	padding: 1% 2% 1% 2%;
+	text-decoration: none;
+	color: white;
+	font-size: 120%;
+	border:1px solid white;
+	border-radius: 0.5em; 
+}
+#feedback:hover{
+	background-color: white;
+	color: black;
+	text-decoration:none;
+}
 @media screen and (min-width: 1150px){
 	#myself{
 		display: inline-block;
@@ -128,6 +143,7 @@ footer {
     nav a{
         border-right: 1px solid black;
 	font-size:120%;
+	border-bottom:none;
     }
     div p{
       font-size: 130%;
@@ -142,6 +158,9 @@ footer {
     }
     footer{
     	margin-top: 5%;
+    }
+    #feedback{
+    	clear: both;
     }
 
 
