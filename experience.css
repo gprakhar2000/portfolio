@@ -11,6 +11,9 @@
 	float: left;
 	margin-left: 3%;
 }
+div p{
+	font-size: 130%;
+}
 h3{
 	color: white;
 	font-variant-caps: small-caps;
