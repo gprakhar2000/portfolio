@@ -17,6 +17,8 @@ nav a{
 	padding:0% 4% 0% 4%;
 	margin-left: 0%;
 	margin-right: 0;
+	font-size:150%;
+	text-align:center;
 
 }
 nav a:last-child{
@@ -122,8 +124,9 @@ footer {
 		float: right;
 		margin-right: 10%;
 	}
-	nav a{
+    nav a{
         border-right: 1px solid black;
+	font-size:120%;
     }
     div p{
       font-size: 130%;
