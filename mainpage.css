@@ -1,14 +1,18 @@
 body{
 	background-color: rgba(77, 74, 74, 1);
 }
+
 nav{
 	background-color: #fff;
+}
+nav img{
+	width: 8%;
 }
 #my{
 	line-height: 150%;
 	margin-left: 1%;
 	margin-right: 3%;
-	font-size: 200%;
+	font-size: 250%;
 	font-family: "Raleway",Courier;
 	/*font-weight: lighter;*/
 }
@@ -35,7 +39,7 @@ nav a:hover{
 	text-decoration: none;
 }
 .navbar-toggler{
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 #myself{
 	text-align: center;
@@ -89,6 +93,7 @@ footer {
 .contact{
 	text-align: left;
 	margin-left: 2%;
+	padding: 2%;
 	font-family: "Cormorant Garamond";
 	font-size:120%;
 }
@@ -97,15 +102,16 @@ footer {
 	color: black;
 	text-decoration:none;
 }
-.contact a:hover{
-
-}
 .contact a.top{
 	float: right;
 	margin-right: 2%;
+	padding: 1%;
+	font-size: 170%;
 }
 .contact span{
 	margin-right: 5%;
+	padding: 1%;
+	font-size: 170%;
 }
 #mysign{
 	display: inline-block;
@@ -116,6 +122,7 @@ footer {
 #feedback{
 	float: right;
 	margin: 8%;
+	margin-bottom: 12%;
 	padding: 1% 2% 1% 2%;
 	text-decoration: none;
 	color: white;
@@ -129,12 +136,22 @@ footer {
 	text-decoration:none;
 }
 @media screen and (min-width: 1150px){
+	nav img{
+		width:40px;
+	}
 	#myself{
 		display: inline-block;
 		/*float: right;*/
 		margin-right: 5%;
 		margin-bottom: 5%;
 		position: fixed;
+	}
+	#my{
+		line-height: 150%;
+        margin-left: 1%;
+        margin-right: 3%;
+        font-size: 200%;
+        font-family: "Raleway",Courier;
 	}
 	#mainpagecon{
 		display: inline-block;
@@ -152,6 +169,17 @@ footer {
     #navbarNavAltMarkup{
         margin-left: 20%;
     }
+    .contact{
+    	padding: 0;
+    }
+    .contact span{
+    	padding: 0;
+    	font-size: 100%;
+    }
+    .contact a.top{
+    	padding: 0;
+    	font-size: 100%;
+    }
     @media (min-width: 992px){
         .navbar-expand-lg .navbar-nav .nav-link{
             padding-right: 1rem;
@@ -162,6 +190,7 @@ footer {
     }
     #feedback{
     	clear: both;
+    	margin-bottom: 8%;
     }
 
 
