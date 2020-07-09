@@ -199,6 +199,9 @@ footer {
 
 
 }
+.loader{
+    background-color: white;
+}
 .loading {
   position: absolute;
   left: 50%;
