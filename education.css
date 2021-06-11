@@ -1,3 +1,6 @@
+body{
+	overflow-x: hidden;
+}
 h1{
 	margin-bottom: 5%;
 }
@@ -10,6 +13,9 @@ h1{
 #educationBBL{
 	margin-bottom: 10%;
 }
+div p{
+	font-size: 130%;
+}
 
 div div h2 {
 	text-decoration: none;
@@ -17,6 +23,7 @@ div div h2 {
 	border-bottom: 1px dashed white;
 }
 #PEC{
+	width: 8%;
 	float: left;
 	border-radius: 5px;
 }

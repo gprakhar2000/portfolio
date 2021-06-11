@@ -1,3 +1,6 @@
+body{
+	overflow-x: hidden;
+}
 #VE{ 
 	width: 50%;
 	color: white;
@@ -7,9 +10,26 @@
 	margin:0% 0% 2% 2%; 
 	font-family:"Roboto Slab"; 
 }
+
 #NSS{
 	float: left;
 	margin-left: 3%;
+}
+#sae{
+	width: 9%;
+	height:5em;
+	float: left;
+	margin-left: 3%;
+}
+#acm{
+	width: 9%;
+	height:5em;
+	float: left;
+	margin-left: 3%;
+}
+
+div p{
+	font-size: 130%;
 }
 h3{
 	color: white;
