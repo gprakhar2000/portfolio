@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	overflow-x: hidden;
 }
@@ -15,4 +16,20 @@ section p{
 	font-size: 150%; 
 	color: white;
 	font-family: Lato;
+=======
+h2{
+	color: white;
+	padding: 2%;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 50%;
+	border-bottom: 1px solid white;
+	font-family: Roboto;
+}
+section p{
+	margin-left: 4%;
+	font-size: 150%; 
+	color: white;
+	font-family: Lato;
+>>>>>>> c434dab82c278934ea310031aa50f8b8aeb02608
 }
