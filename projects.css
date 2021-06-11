@@ -1,12 +1,11 @@
 body{
 	overflow-x: hidden;
 }
-h2{
+section h2{
 	color: white;
 	padding: 2%;
 	margin-left: 2%;
 	margin-top: 2%;
-	width: 75%;
 	border-bottom: 1px solid white;
 	font-family: Roboto;
 }
