@@ -171,7 +171,7 @@ footer {
       font-size: 130%;
     }
     #navbarNavAltMarkup{
-        margin-left: 20%;
+        margin-left: 0%;
     }
     .contact{
     	padding: 0;
@@ -228,4 +228,4 @@ footer {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-}
+
