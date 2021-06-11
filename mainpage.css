@@ -1,6 +1,5 @@
 body{
 	background-color: rgba(77, 74, 74, 1);
-	overflow-x: hidden;
 }
 
 nav{
@@ -172,7 +171,7 @@ footer {
       font-size: 130%;
     }
     #navbarNavAltMarkup{
-        margin-left: 0%;
+        margin-left: 20%;
     }
     .contact{
     	padding: 0;
